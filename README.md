@@ -1,6 +1,6 @@
 <b>Junior Developer | Junior Web Developer| Futurist </b>
 
- 👋 Hi, I’m Foo Xin Chee , living in Batu Pahat, Johor Malaysia. I enroll in professional online courses from Cousera. Let Learn Digital and build something that makes a difference to the community.
+ 👋 Hi, I’m Foo Xin Chee, living in Johor Malaysia. I enroll in professional online courses from Cousera. Let Learn Digital and build something that makes a difference to the community.
  
  I am going to share with you how to become a veteran developer like me. I started programming using language like C, Visual Basic, ASP, PHP, OOP with SQL, MySQL database.Well, it does not just end there .
 
