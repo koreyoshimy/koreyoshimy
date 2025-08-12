@@ -34,7 +34,7 @@
 - **Total Commits (2025):** 25
 - **Total PRs:** 1  
 - **Total Issues:** 0  
-- **Contributed to (last year):**1
+- **Contributed to (last year):** 1
 
 <p align="left">
   <a href="https://github.com/koreyoshimy/koreyoshimy">
