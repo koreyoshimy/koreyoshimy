@@ -30,11 +30,11 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=koreyoshimy&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&custom_title=Foo%20Xin%20Chee's%20GitHub%20Stats&theme=default) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koreyoshimy&layout=compact&theme=default) |
 | --- | --- |
 
-- **Total Stars Earned:** 5  
-- **Total Commits (2025):** 161  
+- **Total Stars Earned:** 0 
+- **Total Commits (2025):** 25
 - **Total PRs:** 1  
 - **Total Issues:** 0  
-- **Contributed to (last year):** 4  
+- **Contributed to (last year):**1
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=haoyanghy&repo=haoyanghy&theme=default" alt="koreyoshimy" />
