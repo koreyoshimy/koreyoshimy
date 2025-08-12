@@ -27,7 +27,7 @@
 
 ## Foo Xin Chee's GitHub Stats
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=haoyanghy&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&custom_title=Tan%20Hao%20Yang's%20GitHub%20Stats&theme=default) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koreyoshimy&layout=compact&theme=default) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=koreyoshimy&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&custom_title=Foo%20Xin%20Chee's%20GitHub%20Stats&theme=default) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koreyoshimy&layout=compact&theme=default) |
 | --- | --- |
 
 - **Total Stars Earned:** 5  
