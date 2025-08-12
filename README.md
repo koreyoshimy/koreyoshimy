@@ -37,7 +37,7 @@
 - **Contributed to (last year):**1
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haoyanghy&repo=koreyoshimy&theme=default" alt="koreyoshimy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koreyoshimy&repo=koreyoshimy&theme=default" alt="koreyoshimy" />
 </p>
 
 ---
