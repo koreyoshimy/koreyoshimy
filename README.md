@@ -1,20 +1,44 @@
-<b>Junior Developer | Junior Web Developer| Futurist </b>
+# 👋 Hi there! I'm Xin Chee, a passionate Computer Science student on a mission to turn ideas into code.
 
- 👋 Hi, I’m Foo Xin Chee, living in Johor Malaysia. I enroll in professional online courses from Cousera. Let Learn Digital and build something that makes a difference to the community.
- 
- I am going to share with you how to become a veteran developer like me. I started programming using language like C, Visual Basic, ASP, PHP, OOP with SQL, MySQL database.Well, it does not just end there .
+![Profile views](https://komarev.com/ghpvc/?username=koreyoshimy&label=Profile%20views&color=0e75b6&style=flat) 
 
-Technology change so fast. New programming languages, frameworks (Laravel, NodeJS, React, Vue, NextJS NuxtJS, TypesScript) and libraries pop up all the time. I am repeating myself to keep learning, increase skills, and grow superb by solving problems through technology .
+---
 
-So a programmer building software twenty years ago was solving the same problems (more or less) as an engineer today. 
-It doesn’t matter if you are an experienced or newbie programmer. Learning by doing brings much more results than learning passively, especially when it comes to programming. .
+## Languages and Tools:
 
-<b>🌱 I’m currently a diploma student study at University Tun Hussein Onn Malaysia
-💞️ I’m looking to collaborate on projects available on Github
-📫 Contact my personal email: cheeoo0818@gmail.com</b>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+</p>
 
-<!---
-koreyoshimy/koreyoshimy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## Foo Xin Chee's GitHub Stats
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=haoyanghy&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&custom_title=Tan%20Hao%20Yang's%20GitHub%20Stats&theme=default) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koreyoshimy&layout=compact&theme=default) |
+| --- | --- |
+
+- **Total Stars Earned:** 5  
+- **Total Commits (2025):** 161  
+- **Total PRs:** 1  
+- **Total Issues:** 0  
+- **Contributed to (last year):** 4  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haoyanghy&repo=haoyanghy&theme=default" alt="koreyoshimy" />
+</p>
+
+---
+[![@haoyanghy](https://avatars.githubusercontent.com/koreyoshimy?size=32)](https://github.com/koreyoshimy)
